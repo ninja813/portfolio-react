@@ -8,8 +8,8 @@ const About = () => (
 				<p className='about-text'>{ABOUT.introduction}</p>
 				<div className='btn btn-default'>
 					<a
-						href='./documents/baatchia-resume.pdf'
-						download='baatchia-resume.pdf'
+						href='./documents/Andres Felipe Ríos González.pdf'
+						download='Andres Felipe Ríos González.pdf'
 					>
 						DOWNLOAD RESUME
 					</a>
